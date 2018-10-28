@@ -1,0 +1,9 @@
+server:
+  port: 8081
+spring:
+  mail:
+    host: smtp.qq.com
+    username: 2113204603@qq.com
+    password: xmlyriqdjodfbajj
+  thymeleaf:
+    cache: false
